@@ -35,6 +35,24 @@ population = [
 	marcus_aurelius
 ]
 
+mastr_populations = {
+	"1": ["Steve", 27, "average joe"],
+	"2": ["Michelle", 12, "average jane"],
+	"3": ["John", 32, "a blond guy"],
+	"4": ["Ron", 23, "a red guy"],
+	"5": ["Maha", 22, "a shy girl"],
+	"6": ["Fatma", 24, "a fruit"],
+	"7": ["Dude", 25, "a college 'dude'"],
+	"8": ["Dudette", 7, "a meme"],
+	"9": ["Forever_alone", 9, "a more popular meme"],
+	"10": ["Confession_bear", 10, "an even more popular meme"],
+	"11": ["Jack", 43, "an american"],
+	"12": ["Audrey", 31, "just some woman"],
+	"13": ["Asis", 1, "a joke we have at Coded"],
+	"14": ["Caesar", 56, "Google me."],
+	"15": ["Marcus_aurelius", 61, "Roman Emperor, philosopher. 'Nuff said."]
+}
+
 book = Club("Book Club", "A book club")
 book.recruit_member(steve)
 book.recruit_member(ron)
